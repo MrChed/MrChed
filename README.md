@@ -13,5 +13,8 @@
 - Базы данных: ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
 - Инструменты: ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+## Занятость
+Я очень много пишу ботов в ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white) и иногда в ![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white). Также я пытюась делать ботов в ![VK](https://img.shields.io/badge/VK-4680C2?logo=vk&logoColor=white).
+
 ## Статистика GitHub
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=MrChed&show_icons=true&theme=radical)
