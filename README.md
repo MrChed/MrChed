@@ -14,4 +14,4 @@
 - Инструменты: ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ## Статистика GitHub
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=MrChed&show_icons=true&theme=radical)
