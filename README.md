@@ -10,7 +10,6 @@
   - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
   - ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
   - ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white&style=flat-square)
-  - ![Pascal](https://img.shields.io/badge/Pascal-007FFF?logo=pascal&logoColor=white&style=flat-square)
 - Инструменты: ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 ## Занятость
